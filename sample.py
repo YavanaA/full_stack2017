@@ -1,2 +1,3 @@
 print("hello world from Ethiopia ")
-print("master branch is created")
+print("master branch")
+print("this is local content")
