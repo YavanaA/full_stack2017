@@ -1,3 +1,3 @@
 print("hello world from Ethiopia ")
 print("master branch")
-print("this is local content")
+print("this is remote content")
